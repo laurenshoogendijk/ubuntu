@@ -1,0 +1,7 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias apt-get='sudo apt-get'
+alias apt-cache='sudo apt-cache'
+alias apt='sudo apt'
+alias nano='echo "-bash: nano: command not found"'
