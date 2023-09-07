@@ -1,0 +1,10 @@
+alacritty
+apt-transport-https
+chrome-gnome-shell
+code
+gnome-shell
+gnome-shell-extension-desktop-icons-ng
+gnome-shell-extension-prefs
+google-chrome-stable
+software-properties-common
+tmux
